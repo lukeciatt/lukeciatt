@@ -29,7 +29,7 @@ Hi there 👋 my name is Luciano, I'm an Application Security Tech Lead & Blockc
   </td>
     <td valign="top" width="50%">
 
-### **Other things I worked with:**
+### **Other things I have worked with:**
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
