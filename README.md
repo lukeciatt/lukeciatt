@@ -1,5 +1,5 @@
 <h1> 
-Hi there 👋 my name is Luciano, I'm an Application Security Tech Lead & Blockchain enthusiastic with 7+ years of experience in Pentesting, Code Audit, Security Training & SDL.
+Hi there 👋 my name is Luciano, I'm an Application Security Tech Lead & Blockchain enthusiastic with 10+ years of experience in Development, Pentesting, Code Audit, Security Training & SDL.
 </h1>
 
 
@@ -61,6 +61,7 @@ Hi there 👋 my name is Luciano, I'm an Application Security Tech Lead & Blockc
 
 <!--badges from https://github.com/Ileriayo/markdown-badges-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianociattaglia/)
+      <br>
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucianociattaglia)
     
 </table>
