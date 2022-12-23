@@ -1,5 +1,5 @@
 <h1> 
-Hi there 👋 my name is Luciano, I'm an Application Security Tech Lead & Blockchain enthusiastic with 10+ years of experience in Development, Pentesting, Code Audit, Security Training & SDL.
+Hi there 👋 my name is Luciano, Blockchain Security Research Manager at <a href='hacken.io' target='_blank'>Hacken.io</a>.
 </h1>
 
 
