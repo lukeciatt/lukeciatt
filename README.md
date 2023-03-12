@@ -58,7 +58,7 @@ Hi there 👋 my name is Luciano, Blockchain Security Research Manager at <a hre
     </td>
     <td valign="top" width="30%">
     
-   ### **Find me in:**
+   ### **Find me on:**
 
 <!--badges from https://github.com/Ileriayo/markdown-badges-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianociattaglia/)
