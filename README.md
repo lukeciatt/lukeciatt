@@ -1,5 +1,5 @@
 <h1> 
-Hi there 👋 my name is Luciano, Blockchain Security Research Manager at <a href='https://hacken.io/' target='_blank'>Hacken.io</a>.
+Hi there 👋 my name is Luciano, Director of Services at <a href='https://hacken.io/' target='_blank'>Hacken.io</a>.
   
 </h1>
 
